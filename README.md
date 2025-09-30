@@ -3,9 +3,9 @@
 ## Description
 The Cube is a web-based Rubic's cube puzzle game designed to test your skills in solving a cube in 3D. It uses **three.js** for 3D Rendering of the cube,
 and comes with a UI for timer, stats, theming, preferences, and scoring. The site shows you solve time, best and worst records, average of multiple solves,
-and other metrics while you play. ([]) Players can double tap to start the game, and enjoy smooth transitions, animations, and interactivity for an immersive experience.
+and other metrics while you play. ([https://knorcubesnininongryanmercado.netlify.app/]) Players can double tap to start the game, and enjoy smooth transitions, animations, and interactivity for an immersive experience.
 
-The project's source code and structure are available on GitHub ([])
+The project's source code and structure are available on GitHub ([https://github.com/Pyx-hash/The-Cube.git])
 
 ## Features
 
@@ -13,7 +13,7 @@ Key features of **The Cube** include:
 
 - 3D Rubic's cube model (default 3x3x3) with full manipulation (rotation, drag, etc.)
 - Scramble / randomization of the cube for new puzzles
-- Timer and scoring system with best, worst, and average (of 5, 12, 25 solves) ([])
+- Timer and scoring system with best, worst, and average (of 5, 12, 25 solves) ([https://knorcubesnininongryanmercado.netlify.app/])
 - Stats display of previous results
 - Theming / color customization
 - Smooth transitions and animation effects (zoomimg, easing, floating, etc.)
